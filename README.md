@@ -2,6 +2,10 @@
 
 用于狐蒂云（szhdy.com）的自动化工具集，包含自动抢购和商品识别两个脚本。
 ![](./pic/2.jpg)![](./pic/1.jpg)
+<p float="left">
+  <img src="./pic/2.jpg" width="100" />
+  <img src="./pic/1.jpg" width="100" /> 
+</p>
 
 ## 安装说明
 
